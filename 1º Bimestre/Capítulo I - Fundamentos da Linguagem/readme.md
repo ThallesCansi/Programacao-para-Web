@@ -1,6 +1,6 @@
 # Exercícios do Capítulo 1 - Fundamentos da Linguagem
 
-> **[Exercício 1.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20I%20-%20Fundamentos%20da%20Linguagem/Exerc%C3%ADcio%201.1.py)*  Armazene seu nome e idade em variáveis separadas e imprima uma saída formatada com elas.
+> **[Exercício 1.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20I%20-%20Fundamentos%20da%20Linguagem/Exerc%C3%ADcio%201.1.py)**  Armazene seu nome e idade em variáveis separadas e imprima uma saída formatada com elas.
 
 > **[Exercício 1.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20I%20-%20Fundamentos%20da%20Linguagem/Exerc%C3%ADcio%201.2.py)**  Armazene dois números em variáveis e imprima a soma, subtração, multiplica-   ção e divisão deles.
 
