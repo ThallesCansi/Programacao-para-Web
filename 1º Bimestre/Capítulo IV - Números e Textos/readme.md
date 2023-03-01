@@ -1,41 +1,31 @@
 # Exercícios do Capítulo IV - Números e Textos
 
-> **[Exercício 3.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.1.py)**  Imprima todos os números de 1 a 100. 
+> **[Exercício 4.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.1.py)**  Crie um programa que peça ao usuário para inserir dois números e calcule a potência do primeiro número pelo segundo número. 
 
-> **[Exercício 3.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.2.py)**  Imprima todos os números pares de 1 a 100.
+> **[Exercício 4.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.2.py)**  Crie um programa que peça ao usuário para inserir um número e calcule a raiz quadrada desse número.
 
-> **[Exercício 3.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.3.py)**  Imprima todos os números ímpares de 1 a 100.
+> **[Exercício 4.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.3.py)**  Crie um programa que peça ao usuário para inserir um ângulo em graus e calcule o seno, cosseno e tangente desse ângulo.
 
-> **[Exercício 3.4](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.4.py)**  Soma todos os números de 1 a 100.
+> **[Exercício 4.4](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.4.py)**  Crie um programa que peça ao usuário para inserir um número e calcule o logaritmo natural desse número.
 
-> **[Exercício 3.5](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.5.py)**  Soma todos os números pares de 1 a 100.
+> **[Exercício 4.5](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.5.py)**  Crie um programa que peça ao usuário para inserir um número e calcule o fatorial desse número.
 
-> **[Exercício 3.6](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.6.py)**  Soma todos os números ímpares de 1 a 100.
+> **[Exercício 4.6](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.6.py)**  Crie um programa que peça ao usuário para inserir dois números complexos e calcule a soma e o produto desses números.
 
-> **[Exercício 3.7](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.7.py)**  Calcule a média dos números digitados pelo usuário. O usuário deve digitar números até digitar um número negativo.
+> **[Exercício 4.7](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.7.py)**  Crie um programa que peça ao usuário para digitar um nome de usuário e uma senha contendo apenas caracteres alfanuméricos e use expressão regular para fazer uma limpeza nos valores digitados, exibindo-os novamente para o usuário os valores que forem modiﬁcados.
 
-> **[Exercício 3.8](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.8.py)**  Calcule o fatorial de um número digitado pelo usuário.
+> **[Exercício 4.8](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.8.py)**  Crie um programa que peça ao usuário para digitar uma frase com 5 palavras. Caso a frase digitada tenha uma quantidade diferente de palavras, o usuário deve digitar novamente. Ao ﬁm, mostre uma palavra por linha. Use tokenização para extrair as palavras.
 
-> **[Exercício 3.9](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.9.py)**  Imprima todos os números divisíveis por 3 ou 5 de 1 a 100.
+> **[Exercício 4.9](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.9.py)**  Crie um programa que peça ao usuário para digitar uma frase, uma palavra presente na frase e outra palavra ausente na frase. Em seguida, substitua todas as ocorrências da palavra existente pela palavra inexistente.
 
-> **[Exercício 3.10](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.10.py)**  Imprima todos os números primos de 1 a 100.
+> **[Exercício 4.10](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.10.py)**  Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, extraia todos os artigos da frase digitada e mostre-a sem os artigos.
 
-> **[Exercício 3.11](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.11.py)**  Soma todos os números divisíveis por 3 ou 5 de 1 a 100.
+> **[Exercício 4.11](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.11.py)**  Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, fatie a frase em substrings de 6 caracteres e mostre-as uma por linha.
 
-> **[Exercício 3.12](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.12.py)**  Soma todos os números primos de 1 a 100.
+> **[Exercício 4.12](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.12.py)**  Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, veriﬁque quantas palavras terminam com a letra “o” e quantas terminam com a letra “a”.
 
-> **[Exercício 3.13](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.13.py)**  Imprima a tabuada de um número digitado pelo usuário.
+> **[Exercício 4.13](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.13.py)**  Crie um programa que peça ao usuário para digitar uma frase, divida-a em palavras, remova todos os espaços em branco desnecessários dessas palavras, e componha a frase novamente com apenas 1 espaço entre as palavras.
 
-> **[Exercício 3.14](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.14.py)**  Veriﬁque se um número digitado pelo usuário é primo.
+> **[Exercício 4.14](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.14.py)**  Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, mostre a posição inicial de cada palavra contida nessa frase.
 
-> **[Exercício 3.15](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.15.py)**  Veriﬁque se um número digitado pelo usuário é perfeito.
-
-> **[Exercício 3.16](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.16.py)**  Encontre o maior e o menor número em uma lista de 10 números digitada pelo usuário.
-
-> **[Exercício 3.17](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.17py)**  Encontre o segundo maior e o segundo menor número em uma lista de 10 números digitada pelo usuário.
-
-> **[Exercício 3.18](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.18.py)**  Imprimir a sequência de Fibonacci até o n-ésimo termo, onde n é digitado pelo usuário.
-
-> **[Exercício 3.19](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.19.py)**  Veriﬁcar se uma palavra digitada pelo usuário é um palíndromo. Se for, imprimir, ao ﬁnal, “A palavra é um palíndromo”. Se não for, imprimir “A palavra não é um palíndromo”.
-
-> **[Exercício 3.20](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.20.py)**  Calcular o fatorial de todos os números de 1 a n, onde n é digitado pelo usuário. Imprima o resultado para cada número.
+> **[Exercício 4.15](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.15.py)**  Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, mostre quantas vezes cada palavra aparece nessa frase.
