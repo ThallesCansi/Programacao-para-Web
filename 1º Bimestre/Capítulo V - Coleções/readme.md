@@ -4,7 +4,7 @@
 
 > **[Exercício 5.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20V%20-%20Cole%C3%A7%C3%B5es/Exercise%205.2.py)**  Use list comprehension para criar uma lista com as palavras que contêm a letra “a” em uma frase digitada pelo usuário, substituindo a letra por “o”.
 
-> **[Exercício 5.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20V%20-%20Cole%C3%A7%C3%B5es/Exercise%205.3.py)**  CUse list comprehension para criar uma lista com o quadrado dos números pares entre 0 e 10.
+> **[Exercício 5.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20V%20-%20Cole%C3%A7%C3%B5es/Exercise%205.3.py)**  Use list comprehension para criar uma lista com o quadrado dos números pares entre 0 e 10.
 
 > **[Exercício 5.4](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20V%20-%20Cole%C3%A7%C3%B5es/Exercise%205.4.py)**  Use list comprehension para criar uma lista com os números divisíveis por 3 ou 5 de 0 a 30.
 
