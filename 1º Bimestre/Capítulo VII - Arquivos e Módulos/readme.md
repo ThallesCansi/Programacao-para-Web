@@ -1,29 +1,31 @@
 # Exercícios do Capítulo VII - Arquivos e Módulos
 
-> **[Exercício 7.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.1.py)**  Crie uma função que receba dois números como argumentos e retorne a soma dos dois números. 
+> **[Exercício 7.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.1.py)**  Crie um programa que solicite ao usuário um nome de arquivo e exiba seu conteúdo na tela.
 
-> **[Exercício 7.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.2.py)**  Crie uma função que receba um número como argumento e retorne True se o número for par e False se o número for ímpar
+> **[Exercício 7.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.2.py)**  Crie um programa que leia um arquivo texto e exiba quantas linhas ele possui.
 
-> **[Exercício 7.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.3.py)**  Crie uma função que receba três argumentos posicionais: um número inteiro, um número ﬂutuante e uma string. A função deve imprimir os valores dos argumentos na tela.
+> **[Exercício 7.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.3.py)**  Crie um programa que leia um arquivo texto, inverta o conteúdo de cada linha e salve o resultado em um novo arquivo.
 
-> **[Exercício 7.4](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.4.py)**  Crie uma função que receba dois argumentos nomeados: nome e idade . A função deve imprimir na tela uma mensagem a seu gosto contendo o nome e a idade da pessoa.
+> **[Exercício 7.4](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.4.py)**  Crie um programa que solicite ao usuário o nome de um arquivo e que renomeie esse arquivo adicionando a palavra “renomeado” ao nome existente e mantendo sua extensão.
 
-> **[Exercício 7.5](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.5.py)**  Crie uma função que deﬁna uma variável x dentro da função e imprima o valor de x na tela. Em seguida, chame a função e veriﬁque se a variável x está acessível fora da função.
+> **[Exercício 7.5](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.5.py)**  Crie um programa que solicite ao usuário o nome de um arquivo e exclua esse arquivo.
 
-> **[Exercício 7.6](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.6.py)**  Crie uma função que receba uma lista como argumento e adicione um elemento à lista dentro da função. Em seguida, imprima a lista fora da função para veriﬁcar se o elemento foi adicionado corretamente.
+> **[Exercício 7.6](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.6.py)**  Crie um programa que solicite ao usuário um nome de arquivo, copie-o para um novo arquivo mudando a extensão para “.copy” e exiba o resultado na tela.
 
-> **[Exercício 7.7](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.7.py)**  Crie uma função que receba uma lista como argumento e retorne o maior valor da lista.
+> **[Exercício 7.7](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.7.py)**  Crie um programa que crie um diretório chamado temp e, dentro desse diretório, crie também um arquivo chamado “temp.txt”.
 
-> **[Exercício 7.8](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.8.py)**  Crie uma função que receba uma string como argumento e retorne a string invertida.
+> **[Exercício 7.8](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.8.py)**  Crie um programa que exclua o diretório criado no exercício anterior com todo o seu conteúdo (cuidado para não excluir a pasta errada).
 
-> **[Exercício 7.9](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.9.py)**  Crie uma função recursiva que calcule o fatorial de um número inteiro.
+> **[Exercício 7.9](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.9.py)**  Crie um programa que utilize o módulo random para gerar um número aleatório entre 1 e 10.
 
-> **[Exercício 7.10](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.10.py)**  Crie uma função recursiva que calcule o N-ésimo termo da sequência de Fibonacci.
+> **[Exercício 7.10](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.10.py)**  Crie um programa que utilize um módulo personalizado para exibir a data e hora atuais do sistema.
 
-> **[Exercício 7.11](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.11.py)**  Crie uma função lambda que receba um número como argumento e retorne o quadrado desse número.
+> **[Exercício 7.11](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.11.py)**  Crie um programa que utilize o pydoc para gerar a documentação de um módulo 
 
-> **[Exercício 7.12](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.12.py)**  Crie uma função lambda que receba duas listas como argumentos e retorne uma lista que contenha apenas os elementos que estão nas duas listas.
+> **[Exercício 7.12](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.12.py)**  Crie um programa que utilize o pydoc para gerar a documentação de uma função criada por você.
 
-> **[Exercício 7.13](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.13.py)**  Crie uma função que receba uma lista e uma função como argumentos e retorne uma nova lista com os elementos da lista original que satisfazem a função.
+> **[Exercício 7.13](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.13.py)**  Utilize o pip para instalar um pacote Python chamado fastapi.
 
-> **[Exercício 7.14](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.14.py)**  Crie uma função que receba duas funções como argumentos e retorne uma nova função que é a composição das duas funções.
+> **[Exercício 7.14](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.14.py)**  Utilize o pip para atualizar um pacote Python chamado fastapi.
+
+> **[Exercício 7.15](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.16.py)**  Utilize o pip para listar os pacotes Python instalados no sistema.

@@ -1,3 +1,3 @@
-import pydoc
+# To create documentation for the timeanddate module, you can use the following command?
 
-pydoc.writedoc('timeanddate')
+# python3 -m pydoc timeanddate

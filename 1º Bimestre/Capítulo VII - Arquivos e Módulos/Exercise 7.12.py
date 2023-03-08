@@ -1,8 +1,14 @@
-"""
-Shows the current time that is being displayed on the computer.
+# Using docstring, you will have the following formatting:
 
-Don't need to use arameters.
+import datetime
 
-Return:
-string: In the following date format (yyyy-mm-dd hh:mm:ss.ms) 
-"""
+def now():
+    """
+    Shows the current time that is being displayed on the computer.
+
+    Don't need to use arameters.
+    
+    Return:
+    string: In the following date format (yyyy-mm-dd hh:mm:ss.ms) 
+    """
+    return datetime.datetime.now()
