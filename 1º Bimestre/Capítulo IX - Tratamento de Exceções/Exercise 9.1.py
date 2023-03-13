@@ -1,0 +1,1 @@
+# As exceções em Python são erros tratados que ocorrem durante a execução de um programa, resultando em uma resposta diferente do esperado, interrompendo o fluxo normal de execução. Os erros gerados são chamados de traceback (rastreamento de pilha) que fornecem informações úteis para depurar o código.

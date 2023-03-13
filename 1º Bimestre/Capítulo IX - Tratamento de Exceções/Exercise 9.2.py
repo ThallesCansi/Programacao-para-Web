@@ -1,0 +1,1 @@
+# A importância em tratar as exceções em um programa em Python se deve ao fato de continuar a execução do sistema mesmo caso haja algum erro, além de torná-lo mais robusto, aumentando a qualidade do código e sua confiabilidade no geral.

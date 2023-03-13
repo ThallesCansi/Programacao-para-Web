@@ -1,0 +1,1 @@
+# Para lidar com exceções em Python, utiliza-se o escopo "try-except". O bloco "try" contém o código que pode levantar uma exceção, e o bloco "except" contém o código que é executado caso uma exceção seja levantada. O bloco "except" pode especificar o tipo de exceção que pode ser tratada.

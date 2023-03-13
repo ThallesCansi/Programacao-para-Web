@@ -1,0 +1,1 @@
+# A utilidade de criar exceções personalizadas é de lidar com erros específicos do seu programa e exibir mensagens de erro mais informativas para o usuário.

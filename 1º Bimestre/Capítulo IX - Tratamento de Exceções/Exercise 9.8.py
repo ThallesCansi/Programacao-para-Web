@@ -1,0 +1,1 @@
+# O bloco finally pode ser utilizado com o bloco try/except por exemplo para garantir o fechamento de um arquivo, quando uma vez aberto pelo bloco try. Caso dê algum erro ou não, é importante que o mesmo seja fechado para garantir nenhum corrompimento de arquivos.

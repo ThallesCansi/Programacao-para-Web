@@ -1,0 +1,1 @@
+# O bloco finally é utilizado para garantir a execução de um determinado trecho de código independentemente se ocorrer uma exceção ou não.

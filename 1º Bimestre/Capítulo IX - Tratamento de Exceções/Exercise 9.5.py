@@ -1,0 +1,1 @@
+# Para capturar todas as exceções em um bloco try/except utiliza-se a classe Exception, que é a classe  ancestral de todas as classes de exceção.
