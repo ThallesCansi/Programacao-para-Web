@@ -1,0 +1,1 @@
+# É importante lidar com exceções em módulos e pacotes em Python pois lida com exceções específicas que na importação ou no uso dos módulos e pacotes utilizados em um programa.
