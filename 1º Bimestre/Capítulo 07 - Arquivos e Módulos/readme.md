@@ -1,4 +1,4 @@
-# Exercícios do Capítulo VII - Arquivos e Módulos
+# Exercícios do Capítulo 7 - Arquivos e Módulos
 
 > **[Exercício 7.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VII%20-%20Arquivos%20e%20M%C3%B3dulos/Exercise%207.1.py)**  Crie um programa que solicite ao usuário um nome de arquivo e exiba seu conteúdo na tela.
 

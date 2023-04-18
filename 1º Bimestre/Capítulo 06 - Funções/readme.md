@@ -1,4 +1,4 @@
-# Exercícios do Capítulo VI - Funções
+# Exercícios do Capítulo 6 - Funções
 
 > **[Exercício 6.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VI%20-%20Fun%C3%A7%C3%B5es/Exercise%206.1.py)**  Crie uma função que receba dois números como argumentos e retorne a soma dos dois números. 
 

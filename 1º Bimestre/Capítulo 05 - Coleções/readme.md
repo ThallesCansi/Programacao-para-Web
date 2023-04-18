@@ -1,4 +1,4 @@
-# Exercícios do Capítulo V - Coleções
+# Exercícios do Capítulo 5 - Coleções
 
 > **[Exercício 5.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20V%20-%20Cole%C3%A7%C3%B5es/Exercise%205.1.py)**  Use list comprehension para criar uma lista com as raízes quadradas dos números pares de 0 a 20. 
 

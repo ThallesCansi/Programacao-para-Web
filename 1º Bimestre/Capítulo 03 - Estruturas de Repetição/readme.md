@@ -1,4 +1,4 @@
-# Exercícios do Capítulo III - Estruturas de Repetição
+# Exercícios do Capítulo 3 - Estruturas de Repetição
 
 > **[Exercício 3.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20III%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o/Exercise%203.1.py)**  Imprima todos os números de 1 a 100. 
 

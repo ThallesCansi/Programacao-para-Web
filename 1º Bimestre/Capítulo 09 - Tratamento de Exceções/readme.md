@@ -1,4 +1,4 @@
-# Exercícios do Capítulo IX - Tratamento de Execeções
+# Exercícios do Capítulo 9 - Tratamento de Execeções
 
 > **[Exercício 9.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IX%20-%20Tratamento%20de%20Exce%C3%A7%C3%B5es/Exercise%209.1.py)**  Explique o conceito de exceções em Python. 
 

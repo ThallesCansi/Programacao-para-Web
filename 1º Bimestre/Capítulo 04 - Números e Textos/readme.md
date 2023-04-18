@@ -1,4 +1,4 @@
-# Exercícios do Capítulo IV - Números e Textos
+# Exercícios do Capítulo 5 - Números e Textos
 
 > **[Exercício 4.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20IV%20-%20N%C3%BAmeros%20e%20Textos/Exercise%204.1.py)**  Crie um programa que peça ao usuário para inserir dois números e calcule a potência do primeiro número pelo segundo número. 
 

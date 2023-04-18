@@ -1,4 +1,4 @@
-# Exercícios do Capítulo VIII - Classes e Objetos
+# Exercícios do Capítulo 8 - Classes e Objetos
 
 > **[Exercício 8.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20VIII%20-%20Classes%20e%20Objetos/Exercise%208.1.py)**  Crie uma classe chamada Pessoa com um método `__init__` que inicialize o nome e a idade da pessoa. Crie um método chamado mostrar_dados que exiba o nome e a idade da pessoa. Crie duas instâncias da classe Pessoa e chame o método mostrar_dados de cada uma das instâncias.
 

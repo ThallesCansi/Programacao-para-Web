@@ -1,4 +1,4 @@
-# Exercícios do Capítulo II - Estruturas Condicionais
+# Exercícios do Capítulo 2 - Estruturas Condicionais
 
 > **[Exercício 2.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%20II%20-%20Estruturas%20Condicionais/Exercise%202.1.py)**  Escreva um programa que verifique se um número é par ou ímpar. 
 
