@@ -1,39 +1,41 @@
 # Exercícios do Capítulo 10 - Bancos de Dados
 
-> **[Exercício 10.1]()**   
+> **[Exercício 10.1](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.1.py)** Crie um banco de dados SQLite chamado `loja.db` usando a biblioteca sqlite3 em Python. Em seguida, crie uma tabela chamada `produtos` com as seguintes colunas: `id` (inteiro e chave primária), `nome` (texto) e `preco` (real).
 
-> **[Exercício 10.2]()**  
+> **[Exercício 10.2](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.2.py)** Usando o banco de dados `loja.db` criado no exercício anterior, insira 3 `produtos` com seus respectivos nomes e preços na tabela `produtos`. Utilize o comando `INSERT` do SQL e a biblioteca sqlite3 em Python.
 
-> **[Exercício 10.3]()**  
+> **[Exercício 10.3](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.3.py)** Escreva uma função chamada buscar_produto que aceite um argumento chamado `produto_id`. A função deve conectar-se ao banco de dados `loja.db`, executar uma consulta `SELECT` para buscar um produto com o `id` correspondente ao argumento passado e retornar o nome e o preço do produto encontrado.
 
-> **[Exercício 10.4]()**  
+> **[Exercício 10.4](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.4.py)** Crie uma função chamada atualizar_preco que aceite dois argumentos, a saber: `produto_id` e `novo_preco`. A função deve conectar-se ao banco de dados `loja.db` , executar um comando `UPDATE` para atualizar o preço do produto com o `id` correspondente ao argumento passado e, em seguida, conﬁrmar a transação.
 
-> **[Exercício 10.5]()**  
+> **[Exercício 10.5](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.5.py)** Crie uma função chamada `excluir_produto` que aceite um argumento chamado `produto_id`. A função deve conectar-se ao banco de dados `loja.db`, executar um comando `DELETE` para remover o produto com o `id` correspondente ao argumento passado e, em seguida, conﬁrmar a transação.
 
-> **[Exercício 10.6]()**  
+> **[Exercício 10.6](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.6.py)** Escreva uma função chamada `listar_produtos` que, ao conectar-se ao banco de dados `loja.db`, execute uma consulta `SELECT` para buscar todos os produtos na tabela `produtos`, ordenando-os por nome em ordem alfabética. A função deve retornar uma lista de tuplas, onde cada tupla contém o `id`, o `nome` e o `preço` de um produto.
 
-> **[Exercício 10.7]()**  
+> **[Exercício 10.7](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.7.py)** Desenvolva uma função chamada relatorio_preco_medio que se conecte ao banco de dados `loja.db` e calcule o preço médio dos `produtos` na tabela `produtos`. Para isso, utilize o comando `SELECT` com a função de agregação `AVG`. A função deve retornar o valor do preço médio arredondado com duas casas decimais.
 
-> **[Exercício 10.9]()**   
+> **[Exercício 10.8](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.8.py)** Crie uma função chamada `produtos_acima_media` que se conecte ao banco de dados `loja.db` e retorne uma lista com os nomes dos produtos cujo preço seja superior à média de preços calculada no exercício anterior. Utilize a função `relatorio_preco_medio` para obter a média e o comando `SELECT` para ﬁltrar os produtos que atendam à condição.
 
-> **[Exercício 10.10]()**  
+> **[Exercício 10.9](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.9.py)** Desenvolva uma função chamada inserir_categoria que aceite dois argumentos: `categoria_id` (inteiro) e `categoria_nome` (texto). A função deve conectar-se ao banco de dados `loja.db`, criar uma tabela chamada `categorias` (caso ainda não exista) com as colunas `id` (inteiro e chave primária) e `nome` (texto), e inserir a nova categoria na tabela `categorias` usando o comando `INSERT`.
 
-> **[Exercício 10.11]()**  
+> **[Exercício 10.10](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.10.py)** Escreva uma função chamada `associar_produto_categoria` que aceite dois argumentos: `produto_id` e `categoria_id`. A função deve conectar-se ao banco de dados `loja.db`, criar uma tabela chamada `produto_categoria` (caso ainda não exista) com as colunas `produto_id` (inteiro) e `categoria_id` (inteiro), e inserir a associação entre o produto e a categoria na tabela `produto_categoria` usando o comando `INSERT`. Considere que a tabela `produto_categoria` deve armazenar apenas associações únicas, ou seja, não deve permitir a inserção de duplicatas.
 
-> **[Exercício 10.12]()**  
+> **[Exercício 10.11](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.11.py)** Crie uma conexão com um banco de dados MongoDB chamado `loja` usando a biblioteca pymongo em Python. Em seguida, crie uma coleção chamada `produtos` dentro desse banco de dados.
 
-> **[Exercício 10.13]()**  
+> **[Exercício 10.12](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.12.py)** Usando o banco de dados `loja` criado no exercício anterior, insira 3 documentos com seus respectivos nomes e preços na coleção `produtos`. Utilize o método `insert_one` da biblioteca pymongo em Python.
 
-> **[Exercício 10.14]()**  
+> **[Exercício 10.13](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.13.py)** Escreva uma função chamada `buscar_produto` que aceite um argumento chamado `produto_id`. A função deve conectar-se ao banco de dados `loja`, executar uma consulta para buscar um documento com o `_id` correspondente ao argumento passado na coleção `produtos` e retornar o `nome` e o `preço` do produto encontrado.
 
-> **[Exercício 10.15]()**  
+> **[Exercício 10.14](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.14.py)** Crie uma função chamada atualizar_preco que aceite dois argumentos, a saber: `produto_id` e novo_preco. A função deve conectar-se ao banco de dados `loja`, executar um comando update_one para atualizar o preço do documento com o \_id correspondente ao argumento passado na coleção produtos.
 
-> **[Exercício 10.16]()**  
+> **[Exercício 10.15](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.15.py)** Crie uma função chamada `excluir_produto` que aceite um argumento chamado `produto_id`. A função deve conectar-se ao banco de dados `loja`, executar um comando `delete_one` para remover o documento com o `_id` correspondente ao argumento passado na coleção `produtos`.
 
-> **[Exercício 10.17]()**  
+> **[Exercício 10.16](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.16.py)** Escreva uma função chamada `listar_produtos` que, ao conectar-se ao banco de dados `loja`, execute uma consulta para buscar todos os documentos na coleção `produtos`, ordenando-os por nome em ordem alfabética. A função deve retornar uma lista de dicionários, onde cada dicionário contém o `_id`, o `nome` e o `preço` de um produto.
 
-> **[Exercício 10.18]()**  
+> **[Exercício 10.17](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.17.py)** Desenvolva uma função chamada `relatorio_preco_medio` que se conecte ao banco de dados `loja` e calcule o preço médio dos documentos na coleção `produtos`. Utilize o método `aggregate` com a função de `agregação $avg`. A função deve retornar o valor do preço médio arredondado com duas casas decimais.
 
-> **[Exercício 10.19]()**  
+> **[Exercício 10.18](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.18.py)** Crie uma função chamada `produtos_acima_media` que se conecte ao banco de dados `loja` e retorne uma lista com os nomes dos produtos cujo preço seja superior à média de preços calculada no exercício anterior. Utilize a função `relatorio_preco_medio` para obter a média e o método `find` para ﬁltrar os documentos que atendam à condição.
 
-> **[Exercício 10.20]()**  
+> **[Exercício 10.19](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.19.py)** Desenvolva uma função chamada `inserir_categoria` que aceite dois argumentos: `categoria_id` (inteiro) e `categoria_nome` (texto). A função deve conectar-se ao banco de dados `loja`, veriﬁcar se a coleção categorias existe (caso contrário, criá-la) e inserir um novo documento com o `_id` e o nome fornecidos na coleção categorias usando o método `insert_one`.
+
+> **[Exercício 10.20](https://github.com/ThallesCansi/Programacao-para-Web/blob/master/1%C2%BA%20Bimestre/Cap%C3%ADtulo%2010%20-%20Bancos%20de%20Dados/Exercise%2010.20.py)** Escreva uma função chamada adicionar_categoria_produto que aceite dois argumentos: `produto_id` e `categoria_id`. A função deve conectar-se ao banco de dados `loja`, veriﬁcar se o produto existe e inserir um novo documento `categoria` na coleção de categorias do `produto`, de acordo com o argumento `categoria_id` fornecido. Utilize o método `update_one` para atualizar o documento em produtos cujo `_id` corresponda ao argumento `produto_id`.

@@ -1,27 +1,26 @@
 from pymongo import MongoClient
-from bson.objectid import ObjectId
 
 
-def associate_product_category(product_id: str, category_id: int):
+def associate_product_category(product_id: int, category_id: int):
     client = MongoClient('mongodb://localhost:27017/')
     db = client['store']
     collection_products = db['products']
+    collection_categories = db['categories']
+    product_category = db['product_category']
 
-    product = collection_products.find_one({'_id': ObjectId(product_id)})
+    product = collection_products.find_one({'_id': product_id})
+    category = collection_categories.find_one({'_id': category_id})
 
     if not product:
         print('This product does not exist.')
         return
 
-    collection_categories = product.get('categories', [])
-    collection_categories.append(category_id)
+    if not category:
+        print('This category does not exist')
+        return
 
-    collection_products.update_one(
-        {'_id': product_id}, {'$set': {'categories': collection_categories}})
-
-    collection_categories = db['categories']
-    document = {'_id': category_id, 'product_id': product_id}
-    collection_categories.insert_one(document)
+    document = {'productId': product_id, 'categoryId': category_id}
+    product_category.insert_one(document)
 
 
-associate_product_category('6442e670aac7d8e079fe9491', 1)
+associate_product_category(2, 1)
